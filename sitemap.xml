@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://sitename.example/</loc>
+         <lastmod>2025-02-07</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example/about/</loc>
+         <lastmod>2025-02-07</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example/blog/</loc>
+         <lastmod>2025-02-07</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example/contact/</loc>
+         <lastmod>2025-02-07</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example/projects/</loc>
+         <lastmod>2025-02-07</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example/skills/</loc>
+         <lastmod>2025-02-07</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example/assets/blog/golang-microservices/</loc>
+         <lastmod>2025-02-07</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example/assets/blog/kubernetes_networking/</loc>
+         <lastmod>2025-02-07</lastmod>
+    </url>
+</urlset>
