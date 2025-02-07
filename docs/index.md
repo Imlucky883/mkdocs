@@ -1,21 +1,5 @@
-# Welcome to MkDocs
+# Welcome to My Portfolio
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Hi, I'm Laxman Patel, a Cloud Platform Engineer and aspiring Site Reliability Engineer. Here, you can find my projects, skills, and more about me.
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
-
-## Using Emojis
-
-I like to drink :beers: after I played :soccer:
+![Profile Image](assets/images/latest.png)
