@@ -1,0 +1,12 @@
+.md-tags a {
+    background-color: #f4f4f4;
+    color: #333;
+    padding: 3px 8px;
+    border-radius: 4px;
+    text-decoration: none;
+    font-size: 0.9em;
+  }
+  .md-tags a:hover {
+    background-color: #ffcc00;
+    color: #000;
+  }

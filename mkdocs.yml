@@ -26,7 +26,19 @@ nav:
   - About Me: about.md
   - Projects: projects.md
   - Skills: skills.md
-  - Blog: blog.md
+  - Blog: 
+      - All Posts: blog.md
+      - Kubernetes Networking: blog/kubernetes-networking.md
+      - Microservices in Go: blog/golang-microservices.md
+
   - Contact: contact.md
+extra:
+  tags:
+    enabled: true
+    index: blog.md  # The main blog page where all tagged posts will be listed
+
+plugins:
+  - search
+  - tags
 
 copyright: Copyright &copy; 2025 Laxman Patel
